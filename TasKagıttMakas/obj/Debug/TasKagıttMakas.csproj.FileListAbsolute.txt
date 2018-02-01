@@ -1,0 +1,18 @@
+c:\users\sami\documents\visual studio 2013\Projects\TasKagıttMakas\TasKagıttMakas\bin\Debug\TasKagıttMakas.exe.config
+c:\users\sami\documents\visual studio 2013\Projects\TasKagıttMakas\TasKagıttMakas\bin\Debug\TasKagıttMakas.exe
+c:\users\sami\documents\visual studio 2013\Projects\TasKagıttMakas\TasKagıttMakas\bin\Debug\TasKagıttMakas.pdb
+c:\users\sami\documents\visual studio 2013\Projects\TasKagıttMakas\TasKagıttMakas\obj\Debug\TasKagıttMakas.csprojResolveAssemblyReference.cache
+c:\users\sami\documents\visual studio 2013\Projects\TasKagıttMakas\TasKagıttMakas\obj\Debug\TasKagıttMakas.Form1.resources
+c:\users\sami\documents\visual studio 2013\Projects\TasKagıttMakas\TasKagıttMakas\obj\Debug\TasKagıttMakas.Properties.Resources.resources
+c:\users\sami\documents\visual studio 2013\Projects\TasKagıttMakas\TasKagıttMakas\obj\Debug\TasKagıttMakas.csproj.GenerateResource.Cache
+c:\users\sami\documents\visual studio 2013\Projects\TasKagıttMakas\TasKagıttMakas\obj\Debug\TasKagıttMakas.exe
+c:\users\sami\documents\visual studio 2013\Projects\TasKagıttMakas\TasKagıttMakas\obj\Debug\TasKagıttMakas.pdb
+C:\Users\Everest\Desktop\TasKagıttMakas\TasKagıttMakas\bin\Debug\TasKagıttMakas.exe.config
+C:\Users\Everest\Desktop\TasKagıttMakas\TasKagıttMakas\obj\Debug\TasKagıttMakas.exe
+C:\Users\Everest\Desktop\TasKagıttMakas\TasKagıttMakas\obj\Debug\TasKagıttMakas.pdb
+C:\Users\Everest\Desktop\TasKagıttMakas\TasKagıttMakas\bin\Debug\TasKagıttMakas.exe
+C:\Users\Everest\Desktop\TasKagıttMakas\TasKagıttMakas\bin\Debug\TasKagıttMakas.pdb
+C:\Users\Everest\Desktop\TasKagıttMakas\TasKagıttMakas\obj\Debug\TasKagıttMakas.csprojResolveAssemblyReference.cache
+C:\Users\Everest\Desktop\TasKagıttMakas\TasKagıttMakas\obj\Debug\TasKagıttMakas.Form1.resources
+C:\Users\Everest\Desktop\TasKagıttMakas\TasKagıttMakas\obj\Debug\TasKagıttMakas.Properties.Resources.resources
+C:\Users\Everest\Desktop\TasKagıttMakas\TasKagıttMakas\obj\Debug\TasKagıttMakas.csproj.GenerateResource.Cache
